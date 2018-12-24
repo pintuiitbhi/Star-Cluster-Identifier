@@ -23,10 +23,10 @@ Theoretical information necessary for understanding the cluster dynamics will be
       > Some solutions submitted by us are not completely correct.
       
       ##### Group Members:    
-             1. Ahtisham Ali Ansari
-             2. Anuj Singh
-             3. Arjun Singh Kushwaha
-             4. Pintu Kumar
+         1. Ahtisham Ali Ansari
+         2. Anuj Singh
+         3. Arjun Singh Kushwaha
+         4. Pintu Kumar
 
             
       

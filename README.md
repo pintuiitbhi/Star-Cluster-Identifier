@@ -12,3 +12,16 @@ Theoretical information necessary for understanding the cluster dynamics will be
    2. [Preprocessed Dataset](https://drive.google.com/open?id=1DHesv5yuwqxMcRJxcS2G1UbuOeZfW-VC)
 
    3. [Problem statement](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/problem_statement.pdf)
+
+
+## Solutions
+   1. Notebook submitted by IIT Bhilai i.e my team
+      - [Star cluster](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/Star_Cluster.ipynb)
+      - [Q1](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/q1.ipynb)
+      - [Q4](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/q4.ipynb)
+      
+      > Some solutions submitted by us are not completely correct.
+      
+   2. Provided by Organising Team
+   
+      [InterIIT_astro_soln](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/InterIIT_astro_soln.ipynb)

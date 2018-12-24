@@ -22,6 +22,14 @@ Theoretical information necessary for understanding the cluster dynamics will be
       
       > Some solutions submitted by us are not completely correct.
       
+      ##### Group Members:    
+             1. Ahtisham Ali Ansari
+             2. Anuj Singh
+             3. Arjun Singh Kushwaha
+             4. Pintu Kumar
+
+            
+      
    2. Provided by Organising Team
    
       [InterIIT_astro_soln](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/InterIIT_astro_soln.ipynb)

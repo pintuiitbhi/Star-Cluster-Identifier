@@ -7,7 +7,9 @@ The task would involve using the datasets appropriately to analyze the globular 
 Theoretical information necessary for understanding the cluster dynamics will be provided during the hackathon.
 
 ## Problem Statement
-   - [Dataset](https://drive.google.com/file/d/1WkCE1cxiFFedq7I9DjnlkDwSSwZynj4z/view?usp=sharing)
+   1. [Original Dataset](https://drive.google.com/file/d/1WkCE1cxiFFedq7I9DjnlkDwSSwZynj4z/view?usp=sharing)
+   
+   2. [Preprocessed Dataset](https://drive.google.com/open?id=1DHesv5yuwqxMcRJxcS2G1UbuOeZfW-VC)
 
 [embed]https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/problem_statement.pdf[/embed]
 

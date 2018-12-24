@@ -15,7 +15,7 @@ Theoretical information necessary for understanding the cluster dynamics will be
 
 
 ## Solutions
-   1. Notebook submitted by IIT Bhilai i.e my team
+   1. Notebooks submitted by IIT Bhilai i.e my team
       - [Star cluster](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/Star_Cluster.ipynb)
       - [Q1](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/q1.ipynb)
       - [Q4](https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/q4.ipynb)

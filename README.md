@@ -11,5 +11,5 @@ Theoretical information necessary for understanding the cluster dynamics will be
    
    2. [Preprocessed Dataset](https://drive.google.com/open?id=1DHesv5yuwqxMcRJxcS2G1UbuOeZfW-VC)
 
-[embed]https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/problem_statement.pdf[/embed]
+[embed] https://github.com/pintuiitbhi/Star-Cluster-Identifier/blob/master/problem_statement.pdf [/embed]
 
